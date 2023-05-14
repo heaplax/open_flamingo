@@ -2,7 +2,6 @@ einops
 einops-exts
 transformers==4.28.1
 tokenizers==0.13.3
-torch==2.0.0
 torchvision
 pillow
 more-itertools
